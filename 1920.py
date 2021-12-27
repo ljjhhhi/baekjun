@@ -1,2 +1,2 @@
-for x in range(0,5):
-  print('{:>10}'.format('*'*x))
+for x in range(0,6):
+  print('{:>5}'.format('*'*x))
